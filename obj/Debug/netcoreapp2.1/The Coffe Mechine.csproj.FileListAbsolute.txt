@@ -1,0 +1,11 @@
+H:\KAMPUS\GENAP 2019-2020\PEMROGRAMAN\VISUAL STUDIO\The Coffe Mechine\The Coffe Mechine\bin\Debug\netcoreapp2.1\The Coffe Mechine.deps.json
+H:\KAMPUS\GENAP 2019-2020\PEMROGRAMAN\VISUAL STUDIO\The Coffe Mechine\The Coffe Mechine\bin\Debug\netcoreapp2.1\The Coffe Mechine.runtimeconfig.json
+H:\KAMPUS\GENAP 2019-2020\PEMROGRAMAN\VISUAL STUDIO\The Coffe Mechine\The Coffe Mechine\bin\Debug\netcoreapp2.1\The Coffe Mechine.runtimeconfig.dev.json
+H:\KAMPUS\GENAP 2019-2020\PEMROGRAMAN\VISUAL STUDIO\The Coffe Mechine\The Coffe Mechine\bin\Debug\netcoreapp2.1\The Coffe Mechine.dll
+H:\KAMPUS\GENAP 2019-2020\PEMROGRAMAN\VISUAL STUDIO\The Coffe Mechine\The Coffe Mechine\bin\Debug\netcoreapp2.1\The Coffe Mechine.pdb
+H:\KAMPUS\GENAP 2019-2020\PEMROGRAMAN\VISUAL STUDIO\The Coffe Mechine\The Coffe Mechine\obj\Debug\netcoreapp2.1\The Coffe Mechine.csprojAssemblyReference.cache
+H:\KAMPUS\GENAP 2019-2020\PEMROGRAMAN\VISUAL STUDIO\The Coffe Mechine\The Coffe Mechine\obj\Debug\netcoreapp2.1\The Coffe Mechine.csproj.CoreCompileInputs.cache
+H:\KAMPUS\GENAP 2019-2020\PEMROGRAMAN\VISUAL STUDIO\The Coffe Mechine\The Coffe Mechine\obj\Debug\netcoreapp2.1\The Coffe Mechine.AssemblyInfoInputs.cache
+H:\KAMPUS\GENAP 2019-2020\PEMROGRAMAN\VISUAL STUDIO\The Coffe Mechine\The Coffe Mechine\obj\Debug\netcoreapp2.1\The Coffe Mechine.AssemblyInfo.cs
+H:\KAMPUS\GENAP 2019-2020\PEMROGRAMAN\VISUAL STUDIO\The Coffe Mechine\The Coffe Mechine\obj\Debug\netcoreapp2.1\The Coffe Mechine.dll
+H:\KAMPUS\GENAP 2019-2020\PEMROGRAMAN\VISUAL STUDIO\The Coffe Mechine\The Coffe Mechine\obj\Debug\netcoreapp2.1\The Coffe Mechine.pdb
